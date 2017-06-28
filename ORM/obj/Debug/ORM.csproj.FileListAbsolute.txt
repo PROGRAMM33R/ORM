@@ -1,0 +1,19 @@
+C:\Users\Josef\Disk Google\VSB-TUO\DAIS\Projekt\ORM_OBR0043\ORM\ORM\bin\Debug\ORM.exe.config
+C:\Users\Josef\Disk Google\VSB-TUO\DAIS\Projekt\ORM_OBR0043\ORM\ORM\obj\Debug\ORM.csprojResolveAssemblyReference.cache
+C:\Users\Josef\Disk Google\VSB-TUO\DAIS\Projekt\ORM_OBR0043\ORM\ORM\bin\Debug\ORM.exe
+C:\Users\Josef\Disk Google\VSB-TUO\DAIS\Projekt\ORM_OBR0043\ORM\ORM\bin\Debug\ORM.pdb
+C:\Users\Josef\Disk Google\VSB-TUO\DAIS\Projekt\ORM_OBR0043\ORM\ORM\obj\Debug\ORM.exe
+C:\Users\Josef\Disk Google\VSB-TUO\DAIS\Projekt\ORM_OBR0043\ORM\ORM\obj\Debug\ORM.pdb
+C:\Users\PROGRAMMER\Downloads\Projekt\Projekt\ORM_OBR0043\ORM\ORM\bin\Debug\ORM.exe.config
+C:\Users\PROGRAMMER\Downloads\Projekt\Projekt\ORM_OBR0043\ORM\ORM\obj\Debug\ORM.exe
+C:\Users\PROGRAMMER\Downloads\Projekt\Projekt\ORM_OBR0043\ORM\ORM\obj\Debug\ORM.pdb
+C:\Users\PROGRAMMER\Desktop\DAIS_projekt\ORM\ORM\bin\Debug\ORM.exe.config
+C:\Users\PROGRAMMER\Desktop\DAIS_projekt\ORM\ORM\obj\Debug\ORM.exe
+C:\Users\PROGRAMMER\Desktop\DAIS_projekt\ORM\ORM\obj\Debug\ORM.pdb
+C:\Users\PROGRAMMER\Desktop\DAIS_projekt\ORM\ORM\obj\Debug\ORM.csprojResolveAssemblyReference.cache
+C:\Users\PROGRAMMER\Desktop\DAIS_projekt\ORM\ORM\bin\Debug\ORM.exe
+C:\Users\PROGRAMMER\Desktop\DAIS_projekt\ORM\ORM\bin\Debug\ORM.pdb
+C:\Users\PROGRAMMER\Desktop\DAIS_projekt\ORM\ORM\obj\Debug\ORM.FormMain.resources
+C:\Users\PROGRAMMER\Desktop\DAIS_projekt\ORM\ORM\obj\Debug\ORM.PridatKotel.resources
+C:\Users\PROGRAMMER\Desktop\DAIS_projekt\ORM\ORM\obj\Debug\ORM.csproj.GenerateResource.Cache
+C:\Users\PROGRAMMER\Desktop\DAIS_projekt\ORM\ORM\obj\Debug\ORM.VytvoreniZakazky.resources
